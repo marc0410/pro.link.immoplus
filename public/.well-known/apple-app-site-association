@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Y2KLD8527S.com.immoplus.pro.ci",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "Y2KLD8527S.com.immoplus.pro.ci"
+    ]
+  }
+}
