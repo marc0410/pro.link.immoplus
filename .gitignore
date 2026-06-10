@@ -42,3 +42,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.claude
+
+# Ignorer tous les fichiers Markdown
+*.md
+# Sauf README.md
+!README.md
